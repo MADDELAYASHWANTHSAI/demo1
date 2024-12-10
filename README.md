@@ -1,3 +1,3 @@
 # demo1
 basic project repo
-create on 10 december
+created on 10 december
